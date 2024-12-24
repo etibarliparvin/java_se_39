@@ -31,3 +31,8 @@ Secid:
 Salam1
 Salam2
 
+Avtandil:
+New1
+New2
+
+
