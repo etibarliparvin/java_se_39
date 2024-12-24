@@ -25,3 +25,7 @@ Secid:
 Salam1
 Salam2
 
+Amil:
+Hi1
+Hi2
+Hi3
