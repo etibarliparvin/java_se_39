@@ -1,3 +1,7 @@
 Java SE 39
 Today I have finalized new feature related with face recognition 
 Parvin mezuniyyetde olanda yeni feature yazilib
+
+Hello guys:
+I have solved some critical issues related with fetching data from DB,
+And solved n+1 problem with entity graph
