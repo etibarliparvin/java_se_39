@@ -5,3 +5,13 @@ Parvin mezuniyyetde olanda yeni feature yazilib
 Hello guys:
 I have solved some critical issues related with fetching data from DB,
 And solved n+1 problem with entity graph
+
+
+Madat:
+
+Salam
+Sagol
+Necesen?
+Bla1
+Bla2
+Bla3
