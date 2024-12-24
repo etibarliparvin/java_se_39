@@ -21,7 +21,13 @@ Hello1
 Hello2
 Hello3
 
+
 Ayxan ikindi defe ishleyir:
 Salam 1
 Salam 2
 Salam 3
+
+Secid:
+Salam1
+Salam2
+
